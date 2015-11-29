@@ -39,13 +39,13 @@
             android:visibility="gone"
             android:layout_gravity="center" />
         <fragment
-            android:name="com.example.same7.movieudacity.MainFragment"
+            android:name="com.udacity.same7.popularmovies.MainFragment"
             android:layout_weight="1"
             android:layout_width="0dp"
             android:layout_height="match_parent"
             android:id="@+id/main_fragment" />
         <fragment
-            android:name="com.example.same7.movieudacity.DetailFragment"
+            android:name="com.udacity.same7.popularmovies.DetailFragment"
             android:layout_weight="1"
             android:layout_width="0dp"
             android:layout_height="match_parent"
