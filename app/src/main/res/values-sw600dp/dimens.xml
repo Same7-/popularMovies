@@ -1,0 +1,7 @@
+<resources>
+    <integer name="grid_space">1</integer>
+    <dimen name="detail_cover_height">256dp</dimen>
+    <dimen name="textview_padding">4dp</dimen>
+    <dimen name="min_layout">48dp</dimen>
+    <dimen name="grid_item_height">256dp</dimen>
+</resources>
